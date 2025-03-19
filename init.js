@@ -1,8 +1,5 @@
 import p5Methods from "./index"
 
-window.setup = p5Methods.setup;
-window.draw = p5Methods.draw;
-
-if (p5Methods.preload !== undefined) {
-    window.preload = p5Methods.preload
+for (const [key, func] of Object.entries(p5Methods)) {
+    window[key] = func;
 }
