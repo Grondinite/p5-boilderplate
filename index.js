@@ -1,4 +1,4 @@
-import p5 from 'p5'
+import 'p5'
 
 const setup = () => {
     createCanvas(400, 400);

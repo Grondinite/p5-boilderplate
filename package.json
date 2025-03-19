@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Grondinite/p5-boilderplate#readme",
   "dependencies": {
+    "@types/p5": "^1.7.6",
     "p5": "^1.11.3"
   },
   "devDependencies": {
