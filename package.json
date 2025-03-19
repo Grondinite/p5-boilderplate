@@ -1,0 +1,19 @@
+{
+  "name": "p5-boilderplate",
+  "version": "0.0.1",
+  "description": "boilderplate code for p5 projects running on node and with hot reload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grondinite/p5-boilderplate.git"
+  },
+  "author": "Thomas Dion-Grondin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grondinite/p5-boilderplate/issues"
+  },
+  "homepage": "https://github.com/Grondinite/p5-boilderplate#readme"
+}
