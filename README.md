@@ -36,7 +36,7 @@ npm run build
 ```
 
 ## Project Structure
-- **init.js:** Initializes the p5.js instance and imports p5 methods.
+- **init.ts:** Initializes the p5.js instance and imports p5 methods.
 
 - **index.html:** The HTML file that loads the p5 sketch.
 

@@ -1,3 +1,4 @@
+/// <reference types="p5/global" />
 import 'p5'
 
 const setup = () => {
@@ -8,6 +9,5 @@ const setup = () => {
 const draw = () => {
     circle(mouseX, mouseY, 80);
 }
-
 
 export default { setup, draw };

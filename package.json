@@ -2,7 +2,7 @@
   "name": "p5-boilderplate",
   "version": "0.0.1",
   "description": "boilderplate code for p5 projects running on node and with hot reload",
-  "main": "index.js",
+  "main": "init.ts",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
