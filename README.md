@@ -1,6 +1,6 @@
 # p5 boilderplate
 
-A simple boilerplate for building p5.js projects with Node.js and hot reload using Vite. This template sets up a basic project structure, allowing you to start coding your interactive sketches quickly.
+A minimal boilerplate for building p5.js projects with Node.js and hot reload using Vite. This template sets up a basic project structure, allowing you to start coding your interactive sketches quickly.
 
 ## Features
 
